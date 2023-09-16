@@ -44,4 +44,5 @@ What Can It Steal From The Victim:
 • Steals Common Files.
 
 • Captures Screenshot.
+
 • Captures Webcam Image.
