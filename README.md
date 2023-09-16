@@ -10,21 +10,38 @@ Then BOOM! When You Go Back To The Channel You Made The Webhook To Every Single 
 What Can It Steal From The Victim:
 
 • Steals Discord Tokens.
+
 • Steals Steam Session.
+
 • Steals Epic Session.
+
 • Steals Uplay Session.
+
 • Steals Passwords From Many Browsers.
+
 • Steals Cookies From Many Browsers.
+
 • Steals History From Many Browsers.
+
 • Steals Autofills From Many Browsers.
+
 • Steals Minecraft Session Files.
+
 • Steals Telegram Session Files.
+
 • Steals Crypto Wallets.
+
 • Steals Roblox Cookies.
+
 • Steals Growtopia Session.
+
 • Steals IP Information.
+
 • Steals System Info.
+
 • Steals Saved Wifi Passwords.
+
 • Steals Common Files.
+
 • Captures Screenshot.
 • Captures Webcam Image.
