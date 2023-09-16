@@ -1,4 +1,4 @@
-                                        DISCORD GRABBER
+                                           DISCORD GRABBER
 
 Best Discord Grabber Ever Made!
 
